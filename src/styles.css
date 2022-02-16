@@ -1,0 +1,16 @@
+
+::before, ::after {
+box-sizing: border-box;
+}
+
+body {margin: 0;
+background: linear-gradient(to left, lightblue, pink );
+}
+
+.calculator-grid {
+display: grid;
+margin-top: 2rem;
+grid-template-columns: repeat(4, 6rem);
+
+}
+why you not work

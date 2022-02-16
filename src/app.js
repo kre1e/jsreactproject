@@ -1,3 +1,6 @@
+
+
+
 function App() {
     return (
         <div className="lommeregner-grid">
@@ -28,3 +31,4 @@ function App() {
         </div>
     )
 }
+
