@@ -6,6 +6,7 @@
 body {
     margin: 0;
     padding: 0;
+    background: linear-gradient(to left, rgb(140, 200, 221), rgb(247, 177, 188));
 }
 
 .navbar {
